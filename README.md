@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**m-zeroual/m-zeroual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammed zeroual from Morocco, I'm 23 years old.<br>
+I'm always trying to grow and learn something new, I have a passion for learning and sharing knowledge as publicly as possible.<br>
+I really enjoy when i'm coding, programming can make me better,
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+What I'm focusing on:
+<ul>
+  <li>Currently improving my scripting skills:</li>
+  <ul>
+      <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrx1BUm16Q7X-Da5ZEGpM7-5rkrenT3uI5yEqmZdLcA&s" width="17px" height="17px"> Python,
+      <img src="https://user-images.githubusercontent.com/38081852/87240002-bcc55000-c3eb-11ea-8dcd-050031c509b4.png" width="17px" height="17px"> Bash script, 
+      <img src="https://iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico" width="17px" height="17px"> Linux.</li>
+  </ul>
+</ul>
+Connect me here: <br>
+<p><a href="https://twitter.com/Dokoko_zr?s=08" target="__blank" <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrx1BUm16Q7X-Da5ZEGpM7-5rkrenT3uI5yEqmZdLcA&s">>   </p>
+
+
+
+
+
