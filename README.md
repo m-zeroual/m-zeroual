@@ -15,8 +15,7 @@ What I'm focusing on:
       <img src="https://iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico" width="17px" height="17px"> Linux.</li>
   </ul>
 </ul>
-Connect me here: <br>
-<p><a href="https://twitter.com/Dokoko_zr?s=08" target="__blank" <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrx1BUm16Q7X-Da5ZEGpM7-5rkrenT3uI5yEqmZdLcA&s">>   </p>
+
 
 
 
