@@ -21,9 +21,9 @@ What I'm focusing on:
 <ul>
   <li>Currently improving my scripting skills:</li>
   <ul>
-      <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrx1BUm16Q7X-Da5ZEGpM7-5rkrenT3uI5yEqmZdLcA&s" width="17px" height="17px"> Python,
+      <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrx1BUm16Q7X-Da5ZEGpM7-5rkrenT3uI5yEqmZdLcA&s" width="18px" height="18px"> Python,
       <img src="https://user-images.githubusercontent.com/38081852/87240002-bcc55000-c3eb-11ea-8dcd-050031c509b4.png" width="17px" height="17px"> Bash script, 
-      <img src="https://iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico" width="17px" height="17px"> Linux.</li>
+      <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" width="18px" height="18px"> Linux.</li>
   </ul>
 </ul>
 
