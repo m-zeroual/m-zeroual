@@ -16,7 +16,7 @@
   I’m also committed to staying up-to-date with the latest technologies and trends in the tech world. Whether it’s exploring new programming languages, diving into advanced algorithms, or understanding the intricacies of system design, I’m always eager to expand my horizons.
 
   Collaboration is another key aspect of my journey. I enjoy working with others, exchanging ideas, and learning from different perspectives. I believe that teamwork not only accelerates learning but also leads to more innovative and robust solutions.
-<img align="right" width="380" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" width="350" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 <!--
 What I'm focusing on:
   <ul>
