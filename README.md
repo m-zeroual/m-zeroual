@@ -9,13 +9,8 @@
 
 <h1 align="center">Hi there 👋.</h1>
 <div>
-  I'm Mohammed Zeroual from Morocco, and I'm dedicated to continuous growth and learning. I have a deep passion for acquiring new knowledge and sharing it as widely as possible. Coding is something I truly enjoy, as it not only challenges me but also helps me become better in every aspect.
-
-  Beyond just writing code, I’m fascinated by the problem-solving process that comes with it. I thrive on tackling complex challenges, breaking them down into manageable parts, and finding efficient solutions. I believe that every line of code I write is an opportunity to refine my skills and contribute to something meaningful.
-
-  I’m also committed to staying up-to-date with the latest technologies and trends in the tech world. Whether it’s exploring new programming languages, diving into advanced algorithms, or understanding the intricacies of system design, I’m always eager to expand my horizons.
-
-  Collaboration is another key aspect of my journey. I enjoy working with others, exchanging ideas, and learning from different perspectives. I believe that teamwork not only accelerates learning but also leads to more innovative and robust solutions.
+  I'm Mohammed Zeroual from Morocco, passionate about coding and continuous growth. I have a deep passion for acquiring new knowledge and sharing it as widely as possible. I thrive on solving challenges, learning new technologies, and exploring system design. Sharing knowledge and collaborating with others inspire me to create meaningful and innovative solutions.
+  
 <img align="right" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 <!--
 What I'm focusing on:
