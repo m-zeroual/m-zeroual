@@ -1,16 +1,16 @@
 
 
 
-
-
-
-
-
-
-<h1 align="center">Hi there 👋.</h1>
+<h1 align="center"  >Hi there 👋.</h1>
 <div>
   I'm Mohammed Zeroual from Morocco, passionate about coding and continuous growth. I have a deep passion for acquiring new knowledge and sharing it as widely as possible. I thrive on solving challenges, learning new technologies, and exploring system design. Sharing knowledge and collaborating with others inspire me to create meaningful and innovative solutions.
-  
+<div/>
+    
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img align="right" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 <!--
 What I'm focusing on:
@@ -23,7 +23,6 @@ What I'm focusing on:
     </ul>
   </ul>
 -->
-</div>
 
 <div>
   <h1> Connect with me: </h1>
@@ -31,7 +30,7 @@ What I'm focusing on:
     <a href="https://x.com/_dokoko" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dokoko_zr" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/mohammed-zeroual-aab7b0229/" target="blank">
+    <a href="https://www.linkedin.com/in/m-zeroual/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-zeroual" height="30" width="40" />
     </a>
   </div>
@@ -88,4 +87,3 @@ What I'm focusing on:
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zeroual&show_icons=true&locale=en" alt="m-zeroual" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-zeroual&" alt="m-zeroual" /></p>
